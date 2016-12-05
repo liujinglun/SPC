@@ -1,0 +1,412 @@
+1.
+{
+    u'contributors': None,
+    u'truncated': False,
+    u'text': u'HelloHelveticAirwaysLX919/2L919arrivingfromDresden,
+    GermanyinaFokker100https: //t.co/ZQjwcM8ENf',
+    u'is_quote_status': False,
+    u'in_reply_to_status_id': None,
+    u'id': 805502926999474180,
+    u'favorite_count': 0,
+    u'entities': {
+        u'symbols': [
+            
+        ],
+        u'user_mentions': [
+            
+        ],
+        u'hashtags': [
+            
+        ],
+        u'urls': [
+            
+        ],
+        u'media': [
+            {
+                u'expanded_url': u'https: //twitter.com/sued_anfluege/status/805502926999474180/photo/1',
+                u'display_url': u'pic.twitter.com/ZQjwcM8ENf',
+                u'url': u'https: //t.co/ZQjwcM8ENf',
+                u'media_url_https': u'https: //pbs.twimg.com/media/Cy24pGOWgAQTEP0.jpg',
+                u'id_str': u'805502924554141700',
+                u'sizes': {
+                    u'small': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'large': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'medium': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'thumb': {
+                        u'h': 150,
+                        u'resize': u'crop',
+                        u'w': 150
+                    }
+                },
+                u'indices': [
+                    82,
+                    105
+                ],
+                u'type': u'photo',
+                u'id': 805502924554141700,
+                u'media_url': u'http: //pbs.twimg.com/media/Cy24pGOWgAQTEP0.jpg'
+            }
+        ]
+    },
+    u'retweeted': False,
+    u'coordinates': None,
+    u'source': u'<ahref="http://www.example.com"rel="nofollow">suedanfluege</a>',
+    u'in_reply_to_screen_name': None,
+    u'in_reply_to_user_id': None,
+    u'retweet_count': 0,
+    u'id_str': u'805502926999474180',
+    u'favorited': False,
+    u'user': {
+        u'follow_request_sent': False,
+        u'has_extended_profile': False,
+        u'profile_use_background_image': False,
+        u'default_profile_image': False,
+        u'id': 761311745222803456,
+        u'profile_background_image_url_https': u'https: //abs.twimg.com/images/themes/theme1/bg.png',
+        u'verified': False,
+        u'translator_type': u'none',
+        u'profile_text_color': u'000000',
+        u'profile_image_url_https': u'https: //pbs.twimg.com/profile_images/769189540879818752/7NDF9vjd_normal.jpg',
+        u'profile_sidebar_fill_color': u'000000',
+        u'entities': {
+            u'url': {
+                u'urls': [
+                    {
+                        u'url': u'https: //t.co/jlIkHV3ca4',
+                        u'indices': [
+                            0,
+                            23
+                        ],
+                        u'expanded_url': u'http: //www.sued-anfluege.ch/',
+                        u'display_url': u'sued-anfluege.ch'
+                    }
+                ]
+            },
+            u'description': {
+                u'urls': [
+                    
+                ]
+            }
+        },
+        u'followers_count': 9,
+        u'profile_sidebar_border_color': u'000000',
+        u'id_str': u'761311745222803456',
+        u'profile_background_color': u'000000',
+        u'listed_count': 2,
+        u'is_translation_enabled': False,
+        u'utc_offset': None,
+        u'statuses_count': 2438,
+        u'description': u'',
+        u'friends_count': 10,
+        u'location': u'Zurich,
+        Switzerland',
+        u'profile_link_color': u'1B95E0',
+        u'profile_image_url': u'http: //pbs.twimg.com/profile_images/769189540879818752/7NDF9vjd_normal.jpg',
+        u'following': False,
+        u'geo_enabled': False,
+        u'profile_banner_url': u'https: //pbs.twimg.com/profile_banners/761311745222803456/1472223960',
+        u'profile_background_image_url': u'http: //abs.twimg.com/images/themes/theme1/bg.png',
+        u'screen_name': u'sued_anfluege',
+        u'lang': u'en',
+        u'profile_background_tile': False,
+        u'favourites_count': 0,
+        u'name': u'S\xfcdAnfl\xfcge',
+        u'notifications': False,
+        u'url': u'https: //t.co/jlIkHV3ca4',
+        u'created_at': u'ThuAug0421: 23: 59+00002016',
+        u'contributors_enabled': False,
+        u'time_zone': None,
+        u'protected': False,
+        u'default_profile': False,
+        u'is_translator': False
+    },
+    u'geo': None,
+    u'in_reply_to_user_id_str': None,
+    u'possibly_sensitive': False,
+    u'lang': u'en',
+    u'created_at': u'SunDec0420: 03: 57+00002016',
+    u'in_reply_to_status_id_str': None,
+    u'place': None,
+    u'extended_entities': {
+        u'media': [
+            {
+                u'expanded_url': u'https: //twitter.com/sued_anfluege/status/805502926999474180/photo/1',
+                u'display_url': u'pic.twitter.com/ZQjwcM8ENf',
+                u'url': u'https: //t.co/ZQjwcM8ENf',
+                u'media_url_https': u'https: //pbs.twimg.com/media/Cy24pGOWgAQTEP0.jpg',
+                u'id_str': u'805502924554141700',
+                u'sizes': {
+                    u'small': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'large': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'medium': {
+                        u'h': 434,
+                        u'resize': u'fit',
+                        u'w': 640
+                    },
+                    u'thumb': {
+                        u'h': 150,
+                        u'resize': u'crop',
+                        u'w': 150
+                    }
+                },
+                u'indices': [
+                    82,
+                    105
+                ],
+                u'type': u'photo',
+                u'id': 805502924554141700,
+                u'media_url': u'http: //pbs.twimg.com/media/Cy24pGOWgAQTEP0.jpg'
+            }
+        ]
+    },
+    u'metadata': {
+        u'iso_language_code': u'en',
+        u'result_type': u'recent'
+    }
+}
+
+
+2.
+u'contributors': None,
+u'truncated': False,
+u'text': u"RT @femaIes: hello sir i'd like to report a serious felony... yes he made the motion like he threw the ball but it was still in his hand ht\u2026",
+u'is_quote_status': False,
+u'in_reply_to_status_id': None,
+u'id': 805511025101402112,
+u'favorite_count': 0,
+u'entities': {
+    u'symbols': [
+        
+    ],
+    u'user_mentions': [
+        {
+            u'id': 231983737,
+            u'indices': [
+                3,
+                11
+            ],
+            u'id_str': u'231983737',
+            u'screen_name': u'femaIes',
+            u'name': u'TypicalGirl'
+        }
+    ],
+    u'hashtags': [
+        
+    ],
+    u'urls': [
+        
+    ]
+},
+u'retweeted': False,
+u'coordinates': None,
+u'source': u'<ahref="http://twitter.com/download/iphone"rel="nofollow">TwitterforiPhone</a>',
+u'in_reply_to_screen_name': None,
+u'in_reply_to_user_id': None,
+u'retweet_count': 402,
+u'id_str': u'805511025101402112',
+u'favorited': False,
+u'retweeted_status': {
+    u'contributors': None,
+    u'truncated': True,
+    u'text': u"hello sir i'd like to report a serious felony... yes he made the motion like he threw the ball but it was still in\u2026 https://t.co/8aUoUWoZzB",
+    u'is_quote_status': False,
+    u'in_reply_to_status_id': None,
+    u'id': 805480561821286401,
+    u'favorite_count': 1108,
+    u'entities': {
+        u'symbols': [
+            
+        ],
+        u'user_mentions': [
+            
+        ],
+        u'hashtags': [
+            
+        ],
+        u'urls': [
+            {
+                u'url': u'https: //t.co/8aUoUWoZzB',
+                u'indices': [
+                    116,
+                    139
+                ],
+                u'expanded_url': u'https: //twitter.com/i/web/status/805480561821286401',
+                u'display_url': u'twitter.com/i/web/status/8\u2026'
+            }
+        ]
+    },
+    u'retweeted': False,
+    u'coordinates': None,
+    u'source': u'<ahref="http://bufferapp.com"rel="nofollow">Buffer</a>',
+    u'in_reply_to_screen_name': None,
+    u'in_reply_to_user_id': None,
+    u'retweet_count': 402,
+    u'id_str': u'805480561821286401',
+    u'favorited': False,
+    u'user': {
+        u'follow_request_sent': False,
+        u'has_extended_profile': False,
+        u'profile_use_background_image': False,
+        u'default_profile_image': False,
+        u'id': 231983737,
+        u'profile_background_image_url_https': u'https: //pbs.twimg.com/profile_background_images/378800000072327190/72960c9c13123d6d9990cc3c6f188aa8.jpeg',
+        u'verified': False,
+        u'translator_type': u'regular',
+        u'profile_text_color': u'457F81',
+        u'profile_image_url_https': u'https: //pbs.twimg.com/profile_images/651762731822022660/oGv4mvWb_normal.png',
+        u'profile_sidebar_fill_color': u'3B6D78',
+        u'entities': {
+            u'url': {
+                u'urls': [
+                    {
+                        u'url': u'https: //t.co/b5BmDEqW11',
+                        u'indices': [
+                            0,
+                            23
+                        ],
+                        u'expanded_url': u'http: //FemaIes.com',
+                        u'display_url': u'FemaIes.com'
+                    }
+                ]
+            },
+            u'description': {
+                u'urls': [
+                    
+                ]
+            }
+        },
+        u'followers_count': 1114462,
+        u'profile_sidebar_border_color': u'FFFFFF',
+        u'id_str': u'231983737',
+        u'profile_background_color': u'131516',
+        u'listed_count': 1662,
+        u'is_translation_enabled': False,
+        u'utc_offset': -18000,
+        u'statuses_count': 106040,
+        u'description': u'Leggings,
+        oversizedsweatshirts,
+        cuteunderwear&foodaremyhobbies.Icomment,
+        parody,
+        critiqueandreportonthings.',
+        u'friends_count': 226621,
+        u'location': u'Hey@Femaies.com',
+        u'profile_link_color': u'F1010C',
+        u'profile_image_url': u'http: //pbs.twimg.com/profile_images/651762731822022660/oGv4mvWb_normal.png',
+        u'following': False,
+        u'geo_enabled': False,
+        u'profile_banner_url': u'https: //pbs.twimg.com/profile_banners/231983737/1385093082',
+        u'profile_background_image_url': u'http: //pbs.twimg.com/profile_background_images/378800000072327190/72960c9c13123d6d9990cc3c6f188aa8.jpeg',
+        u'screen_name': u'femaIes',
+        u'lang': u'en',
+        u'profile_background_tile': True,
+        u'favourites_count': 8615,
+        u'name': u'TypicalGirl',
+        u'notifications': False,
+        u'url': u'https: //t.co/b5BmDEqW11',
+        u'created_at': u'ThuDec3000: 27: 58+00002010',
+        u'contributors_enabled': False,
+        u'time_zone': u'EasternTime(US&Canada)',
+        u'protected': False,
+        u'default_profile': False,
+        u'is_translator': False
+    },
+    u'geo': None,
+    u'in_reply_to_user_id_str': None,
+    u'possibly_sensitive': False,
+    u'lang': u'en',
+    u'created_at': u'SunDec0418: 35: 05+00002016',
+    u'in_reply_to_status_id_str': None,
+    u'place': None,
+    u'metadata': {
+        u'iso_language_code': u'en',
+        u'result_type': u'recent'
+    }
+},
+u'user': {
+    u'follow_request_sent': False,
+    u'has_extended_profile': True,
+    u'profile_use_background_image': False,
+    u'default_profile_image': False,
+    u'id': 2501952222,
+    u'profile_background_image_url_https': u'https: //abs.twimg.com/images/themes/theme1/bg.png',
+    u'verified': False,
+    u'translator_type': u'none',
+    u'profile_text_color': u'000000',
+    u'profile_image_url_https': u'https: //pbs.twimg.com/profile_images/797626091502325760/NyAiwftL_normal.jpg',
+    u'profile_sidebar_fill_color': u'000000',
+    u'entities': {
+        u'description': {
+            u'urls': [
+                
+            ]
+        }
+    },
+    u'followers_count': 535,
+    u'profile_sidebar_border_color': u'000000',
+    u'id_str': u'2501952222',
+    u'profile_background_color': u'000000',
+    u'listed_count': 6,
+    u'is_translation_enabled': False,
+    u'utc_offset': -28800,
+    u'statuses_count': 20624,
+    u'description': u"Trouble\u2728| SLPHS '17 |",
+    u'friends_count': 351,
+    u'location': u'',
+    u'profile_link_color': u'89C9FA',
+    u'profile_image_url': u'http: //pbs.twimg.com/profile_images/797626091502325760/NyAiwftL_normal.jpg',
+    u'following': False,
+    u'geo_enabled': True,
+    u'profile_banner_url': u'https: //pbs.twimg.com/profile_banners/2501952222/1473091728',
+    u'profile_background_image_url': u'http: //abs.twimg.com/images/themes/theme1/bg.png',
+    u'screen_name': u'johnna_banana',
+    u'lang': u'en',
+    u'profile_background_tile': False,
+    u'favourites_count': 27528,
+    u'name': u'Johnna',
+    u'notifications': False,
+    u'url': None,
+    u'created_at': u'SatMay1716: 29: 25+00002014',
+    u'contributors_enabled': False,
+    u'time_zone': u'PacificTime(US&Canada)',
+    u'protected': False,
+    u'default_profile': False,
+    u'is_translator': False
+},
+u'geo': None,
+u'in_reply_to_user_id_str': None,
+u'lang': u'en',
+u'created_at': u'SunDec0420: 36: 08+00002016',
+u'in_reply_to_status_id_str': None,
+u'place': None,
+u'metadata': {
+    u'iso_language_code': u'en',
+    u'result_type': u'recent'
+}
+}
+
+
+
+
+
+
+
